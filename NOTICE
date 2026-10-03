@@ -1,0 +1,40 @@
+Chowdren runtime (ARM / CMake / GCC port)
+Copyright (C) 2026 SLAYKIN6_TTV
+
+This project is based on Anaconda/Chowdren, Copyright (C) Mathias Kaerlev
+(https://github.com/matpow2/anaconda), used under the GNU General Public
+License version 3. It has been substantially modified: the build system was
+rewritten to use CMake and GCC, and the runtime was built for ARM (aarch64).
+
+Anaconda/Chowdren build 284-293 support and related work by fnmwolf, pete7201,
+ClickNinYT, 1987Kostya and Blue Nova is also credited where used.
+
+LICENSE
+-------
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version. See the COPYING file for the full license text.
+
+ADDITIONAL TERMS (GPLv3 section 7)
+----------------------------------
+In addition to the GPL, the following terms apply to the modifications made by
+SLAYKIN6_TTV:
+
+  1. (7b) You must preserve the copyright notices and author attributions in
+     this NOTICE file and in the source file headers, including the credit to
+     Mathias Kaerlev.
+  2. (7c) Modified versions must be clearly marked as such, and you must not
+     misrepresent the origin of this software or present a modified version
+     as the original.
+  3. (7e) No rights are granted to use the names "SLAYKIN6_TTV" or of this
+     project for trademark or branding purposes.
+
+THIRD-PARTY COMPONENTS
+----------------------
+Bundled libraries (for example the OpenAL Soft fork used by Chowdren, SDL, and
+others) remain under their own licenses. Keep their license files with them.
+
+NO WARRANTY
+-----------
+See sections 15 and 16 of the GPL in COPYING.

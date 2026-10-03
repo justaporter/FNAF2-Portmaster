@@ -1,5 +1,7 @@
 # FNAF2-Portmaster A native port of Scott Cawthon's Five Nights at Freddy's 2 for all handhelds via Portmaster
 
+<img width="640" height="480" alt="cover" src="https://github.com/user-attachments/assets/f6cb6020-eed4-4054-8a0e-7ca26af328a6" /><img width="640" height="480" alt="screenshot" src="https://github.com/user-attachments/assets/b4e4e2c5-d09b-435d-b520-5584921cee67" />
+
 
 
 ## Notes
